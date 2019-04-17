@@ -8,4 +8,12 @@
 
     uname -a
     
+### 3, search and replace
+
+    %s/search/replace/gc
+    
+    %: range of whole file
+    g: replace all occurence in the range
+    c: need comfirm before each replace
+    
     
