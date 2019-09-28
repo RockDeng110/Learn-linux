@@ -16,4 +16,8 @@
     g: replace all occurence in the range
     c: need comfirm before each replace
     
+### 4, users and groups
+    1, list all users
+    
+        cat /etc/passwd
     
