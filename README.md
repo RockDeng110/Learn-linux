@@ -18,6 +18,7 @@
     
 ### 4, users and groups
     1, list all users
-    
         cat /etc/passwd
+    2, list all groups
+        cat /etc/group
     
